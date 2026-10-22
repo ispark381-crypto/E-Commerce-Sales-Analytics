@@ -1,0 +1,45 @@
+Analysis_Type,Category,Metric,Value
+KPI,Overall,Total Sales,21779052.59
+KPI,Overall,Total Orders,17049.0
+KPI,Overall,Total Quantity,51341.0
+KPI,Overall,Average Rating,3.9
+KPI,Overall,Average Delivery Time,6.5
+Product Category,Beauty,Sales,694437.02
+Product Category,Books,Sales,360399.11
+Product Category,Electronics,Sales,10481897.65
+Product Category,Fashion,Sales,1577035.7
+Product Category,Food,Sales,422054.65
+Product Category,Home & Garden,Sales,4023903.94
+Product Category,Sports,Sales,3205086.99
+Product Category,Toys,Sales,1014237.53
+Payment Method,Bank Transfer,Sales,2311499.25
+Payment Method,Cash on Delivery,Sales,1053813.86
+Payment Method,Credit Card,Sales,9069714.65
+Payment Method,Debit Card,Sales,5152182.83
+Payment Method,Digital Wallet,Sales,4191842.0
+Device Type,Desktop,Sales,7661437.07
+Device Type,Mobile,Sales,12028685.29
+Device Type,Tablet,Sales,2088930.23
+Month,2023-01,Sales,1311603.21
+Month,2023-02,Sales,1409777.29
+Month,2023-03,Sales,1458005.58
+Month,2023-04,Sales,1499648.03
+Month,2023-05,Sales,1483511.61
+Month,2023-06,Sales,1380984.94
+Month,2023-07,Sales,1560046.14
+Month,2023-08,Sales,1510999.75
+Month,2023-09,Sales,1502164.37
+Month,2023-10,Sales,1536847.33
+Month,2023-11,Sales,1446439.79
+Month,2023-12,Sales,1586213.77
+Month,2024-01,Sales,1490824.78
+Month,2024-02,Sales,1329884.01
+Month,2024-03,Sales,1272101.99
+Delivery Time,Beauty,Average Delivery Days,6.55
+Delivery Time,Books,Average Delivery Days,6.6
+Delivery Time,Electronics,Average Delivery Days,6.3
+Delivery Time,Fashion,Average Delivery Days,6.52
+Delivery Time,Food,Average Delivery Days,6.46
+Delivery Time,Home & Garden,Average Delivery Days,6.47
+Delivery Time,Sports,Average Delivery Days,6.55
+Delivery Time,Toys,Average Delivery Days,6.55
